@@ -1,2 +1,2 @@
-# First-Repository
+# hello-world
 Practice for BUS 392
